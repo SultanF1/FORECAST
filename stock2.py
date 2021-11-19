@@ -11,7 +11,7 @@ Today = date.today().strftime("%Y-%m-%d")
 
 st.title("Stock Predictor (i1)")
 
-stocks = {"1180.SR", "2222.SR", "1020.SR", "1211.SR", "2290.SR", "3030.SR", "4050.SR", "4100.SR", "4300.SR", "5110.SR", "7202.SR", "8012.SR", "8040.SR"}
+stocks = {"1180.SR", "2222.SR", "1020.SR", "1211.SR", "2290.SR", "3030.SR", "4050.SR", "4100.SR", "4300.SR", "5110.SR", "7202.SR", "8012.SR", "8040.SR", "8080.SR"}
 selected_stock = st.selectbox("Select the stock ", stocks)
 
 n_months = st.slider("Months of prediction", 1 , 48)
