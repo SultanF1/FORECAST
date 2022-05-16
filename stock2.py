@@ -249,7 +249,7 @@ def main():
             
 
 
-            Main(user)
+
                         
             
             data = {'uid':'sultan'}
