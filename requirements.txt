@@ -4,3 +4,4 @@ plotly==5.1.0
 Pyrebase==3.0.27
 streamlit==1.0.0
 yfinance==0.1.66
+requests==2.27.1
