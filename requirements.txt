@@ -3,4 +3,4 @@ plotly
 yfinance
 pystan==2.19.1.1
 fbprophet
-pyrebase
+Pyrebase==3.0.27
